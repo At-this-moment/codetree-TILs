@@ -15,7 +15,7 @@ int main() {
         printf("pen");
     }
     else{
-        printf("no")
+        printf("no");
     }
 
     return 0;
