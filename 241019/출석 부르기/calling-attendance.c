@@ -8,10 +8,10 @@ int main() {
     if(n==1){
         printf("John");
     }
-    if else(n==2){
+    else if(n==2){
         printf("Tom");
     }
-    if else(n==3){
+    else if(n==3){
         printf("Paul");
     }
     else{
