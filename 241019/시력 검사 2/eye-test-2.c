@@ -8,7 +8,7 @@ int main() {
     if(e>=1){
         printf("High");
     }
-    else if(0.5<=e){
+    else if(e>=0.5){
         printf("Middle");
     }
     else{
