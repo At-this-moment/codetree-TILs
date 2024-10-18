@@ -6,10 +6,10 @@ int main() {
     scanf("%d",&x);
 
     if(x%3==0){
-        printf("YES");
+        printf("YES\n");
     }
     else{
-        printf("NO");
+        printf("NO\n");
     }
     if(x%5==0){
         printf("YES");
