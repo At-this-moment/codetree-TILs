@@ -6,11 +6,11 @@ int main() {
     scanf("%d %d %d",&x,&y,&z);
 
     if(x<=y && x<=z){
-        printf("%d",x);
+        printf("%d ",x);
     }
     
     if(y<=x && y<=z){
-        printf("%d",y);
+        printf("%d ",y);
     }
     
     if(z<=x && z<=y){
