@@ -9,11 +9,11 @@ int main() {
         printf("%d ",x);
     }
     
-    if(y<=x && y<=z){
+    else if(y<=x && y<=z){
         printf("%d ",y);
     }
     
-    if(z<=x && z<=y){
+    else if(z<=x && z<=y){
         printf("%d",z);
     }
 
