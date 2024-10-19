@@ -13,7 +13,7 @@ int main() {
         }
     }
     if(c=='D'){
-        for(int i=n; i<=n; i--){
+        for(int i=n; i>=1; i--){
             printf("%d ",i);
         }
     }
