@@ -6,10 +6,9 @@ int main() {
     scanf("%d",&n);
 
     if(n!=2){
-        printf("31");
         if(n==4 || n==6 || n==9 || n==11){
             printf("30");
-        }
+        }else printf("31");
     }
     else{
         printf("28");
