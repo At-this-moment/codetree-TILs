@@ -1,5 +1,6 @@
-a,b=5,30
-c=a+b
+int a = 5
+int b = 30
+int c = a+c
 
-print(int(c/8))
-print(int(c%8))
+print(c/8)
+print(c%8)
