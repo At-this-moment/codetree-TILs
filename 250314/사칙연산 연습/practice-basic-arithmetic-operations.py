@@ -1,5 +1,5 @@
-int a = 5
-int b = 30
+a = 5
+b = 30
 c=a+b
 
 print(c/8)
