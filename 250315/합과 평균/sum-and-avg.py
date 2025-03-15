@@ -1,2 +1,2 @@
-a,b=int(input().split())
-print(.f{a+b} {:.2fa+b/2})
+a,b=map(int,input().split())
+print(f"{a+b} {(a+b)/2}")
