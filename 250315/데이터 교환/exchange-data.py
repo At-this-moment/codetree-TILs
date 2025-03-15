@@ -3,8 +3,8 @@ b=6
 c=7
 
 tmp=c
-b=a
 c=b
+b=a
 a=tmp
 
 print(a)
