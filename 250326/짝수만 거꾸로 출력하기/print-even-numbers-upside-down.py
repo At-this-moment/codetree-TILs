@@ -7,5 +7,5 @@ for i in range(n):
         if num%2==0:
             even.append(num)        
 
-even.sort
+even.sort()
 print(' '.join(map(str,even)))
